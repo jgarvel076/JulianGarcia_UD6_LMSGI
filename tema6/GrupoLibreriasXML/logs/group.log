@@ -1,0 +1,11 @@
+09:38:23.623  INFO  [LibraryManager] ---- group creation in C:\Users\1DAW_2223_13\Desktop\lenguajes de marcas\tema6\GrupoLibreriasXML
+09:38:23.623  INFO  [LibraryManager]  100
+10:35:54.646  INFO  [LibraryManager] shutdown begins
+10:35:54.646  INFO  [LibraryManager]  closed library DB_BailesDeSalon
+10:35:54.646  INFO  [LibraryManager] shutdown complete.
+12:17:49.965  INFO  [LibraryManager] ---- starting up ----
+12:17:49.966  INFO  [LibraryManager]  100
+12:17:50.036  INFO  [LibraryManager] Library group ready
+12:40:15.605  INFO  [LibraryManager] shutdown begins
+12:40:15.609  INFO  [LibraryManager]  closed library DB_BailesDeSalon
+12:40:15.609  INFO  [LibraryManager] shutdown complete.
