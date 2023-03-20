@@ -1,0 +1,26 @@
+13:56:17.382  INFO  [lib DB_Libros] Qizx 4.4p1 creating new XML Library in C:\Users\1DAW_2223_13\Desktop\lenguajes de marcas\tema6\GrupoLibreriasXML\DB_Libros
+13:56:17.382  INFO  [lib DB_Libros] create storage in C:\Users\1DAW_2223_13\Desktop\lenguajes de marcas\tema6\GrupoLibreriasXML\DB_Libros\contents.qdb
+13:56:17.382  INFO  [lib DB_Libros] storage created
+13:56:17.397  INFO  [lib DB_Libros] library creation done
+13:57:26.958  INFO  [lib DB_Libros] All sessions closed
+13:57:26.958  INFO  [lib DB_Libros] Sweeper stopped
+13:57:26.958  INFO  [lib DB_Libros] library closed 
+13:57:43.157  INFO  [lib DB_Libros] Library opened by Qizx 4.4p1
+13:57:43.157  INFO  [lib DB_Libros]  location C:\Users\1DAW_2223_13\Desktop\lenguajes de marcas\tema6\GrupoLibreriasXML\DB_Libros
+13:57:43.157  INFO  [lib DB_Libros]  document storage version=5, lastBId=7, BCount=7, maxA=502
+13:57:53.004  INFO  [lib DB_Libros] commit start DB_Libros (session 1)
+13:57:53.097  INFO  [lib DB_Libros] commit 1 on DB_Libros (session 1)
+13:57:53.144  INFO  [lib DB_Libros] commit 1 done
+13:57:53.144  INFO  [lib DB_Libros] commit end DB_Libros (session 1) -> state: [ 1 ][ 1 2 ]
+13:57:53.144  INFO  [lib DB_Libros] sweeper deleted 1/1 metadocs: 5
+14:01:37.149  INFO  [lib DB_Libros] All sessions closed
+14:01:37.149  INFO  [lib DB_Libros] Sweeper stopped
+14:01:37.149  INFO  [lib DB_Libros] library closed 
+14:02:05.059  INFO  [lib DB_Libros] Library opened by Qizx 4.4p1
+14:02:05.059  INFO  [lib DB_Libros]  location C:\Users\1DAW_2223_13\Desktop\lenguajes de marcas\tema6\GrupoLibreriasXML\DB_Libros
+14:02:05.059  INFO  [lib DB_Libros]  document storage version=5, lastBId=13, BCount=12, maxA=502
+14:04:41.136  INFO  [lib DB_Libros] All sessions closed
+14:04:41.136  INFO  [lib DB_Libros] library closed 
+14:05:01.191  INFO  [lib DB_Libros] Library opened by Qizx 4.4p1
+14:05:01.191  INFO  [lib DB_Libros]  location C:\Users\1DAW_2223_13\Desktop\lenguajes de marcas\tema6\GrupoLibreriasXML\DB_Libros
+14:05:01.191  INFO  [lib DB_Libros]  document storage version=5, lastBId=13, BCount=12, maxA=502
